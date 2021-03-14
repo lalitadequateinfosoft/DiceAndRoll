@@ -1,0 +1,12 @@
+E:\Test Project\DiceRollCalc\DiceRollCalc\bin\Debug\netcoreapp3.1\DiceRollCalc.exe
+E:\Test Project\DiceRollCalc\DiceRollCalc\bin\Debug\netcoreapp3.1\DiceRollCalc.deps.json
+E:\Test Project\DiceRollCalc\DiceRollCalc\bin\Debug\netcoreapp3.1\DiceRollCalc.runtimeconfig.json
+E:\Test Project\DiceRollCalc\DiceRollCalc\bin\Debug\netcoreapp3.1\DiceRollCalc.runtimeconfig.dev.json
+E:\Test Project\DiceRollCalc\DiceRollCalc\bin\Debug\netcoreapp3.1\DiceRollCalc.dll
+E:\Test Project\DiceRollCalc\DiceRollCalc\bin\Debug\netcoreapp3.1\DiceRollCalc.pdb
+E:\Test Project\DiceRollCalc\DiceRollCalc\obj\Debug\netcoreapp3.1\DiceRollCalc.AssemblyInfoInputs.cache
+E:\Test Project\DiceRollCalc\DiceRollCalc\obj\Debug\netcoreapp3.1\DiceRollCalc.AssemblyInfo.cs
+E:\Test Project\DiceRollCalc\DiceRollCalc\obj\Debug\netcoreapp3.1\DiceRollCalc.csproj.CoreCompileInputs.cache
+E:\Test Project\DiceRollCalc\DiceRollCalc\obj\Debug\netcoreapp3.1\DiceRollCalc.dll
+E:\Test Project\DiceRollCalc\DiceRollCalc\obj\Debug\netcoreapp3.1\DiceRollCalc.pdb
+E:\Test Project\DiceRollCalc\DiceRollCalc\obj\Debug\netcoreapp3.1\DiceRollCalc.genruntimeconfig.cache
